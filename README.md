@@ -409,12 +409,6 @@ git commit -m "feat: 添加新功能"
 
 本项目采用MIT许可证，详见 [LICENSE](./LICENSE) 文件。
 
-## 👥 作者
-
-- 项目维护者：编程两年半
-- 邮箱：gjhxue@qq.com
-- 微信：bclnb00
-- 抖音：编程两年半
 
 ## 🙏 致谢
 
